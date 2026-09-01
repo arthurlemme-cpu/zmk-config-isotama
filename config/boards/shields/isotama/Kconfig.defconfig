@@ -13,4 +13,7 @@ if SHIELD_ISOTAMA_LEFT || SHIELD_ISOTAMA_RIGHT
 config ZMK_SPLIT
     default y
 
+config ZMK_KEYBOARD_NAME
+    default "Isotama"
+
 endif
