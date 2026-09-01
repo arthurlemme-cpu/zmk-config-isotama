@@ -1,4 +1,4 @@
-if SHIELD_ISOTAMA_LEFT
+if SHIELD_ISOTAMA_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Isotama"
