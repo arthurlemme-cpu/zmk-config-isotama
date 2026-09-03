@@ -55,7 +55,7 @@
 //                     |      |      |      |        |  |       |      |       |       |
             bindings = <
 &kp F1       &kp F2       &kp F3  &kp F4   &kp F5  &kp F6                     &kp F7    &kp F8    &kp F9    &kp F10   &kp F11      &kp F12   &trans
-&kp DE_CARET &kp DE_AT    &trans  &DE_EURO &trans  &trans                     &trans    &trans    &kp PG_UP &trans    &bt BT_SEL 0 &trans    &trans
+&kp DE_CARET &kp DE_AT    &trans  &kp DE_EURO &trans  &trans                     &trans    &trans    &kp PG_UP &trans    &bt BT_SEL 0 &trans    &trans
 &trans       &trans       &trans  &trans   &trans  &trans                     &trans    &trans    &kp PG_DN &trans    &bt BT_CLR   &trans    &trans
 &trans       &kp DE_LT    &trans  &trans   &trans  &trans                     &trans    &trans    &trans    &trans    &trans       &trans    &trans
                                   &trans   &trans  &trans    &trans &trans    &trans    &trans    &trans
